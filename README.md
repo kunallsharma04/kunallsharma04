@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer and Data Analytics from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/kunallsharma04" target="blank"><img src="https://img.shields.io/twitter/follow/kunallsharma04?logo=twitter&style=for-the-badge" alt="kunallsharma04" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management System**
+- 🔭 I’m currently working on **Data Analyst Project**
 
-- 🌱 I’m currently learning **Java With DSA**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **MERN STACK , ANDROID DEVLOPMENT**
+- 💬 Ask me about **MERN STACK , Data Analyst**
 
 - 📫 How to reach me **Kunallsharma04@gmail.com**
 
